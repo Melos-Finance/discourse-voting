@@ -5,7 +5,7 @@ en:
         votes: "Votes"
     voting:
       title: "Voting"
-      reached_limit: "You are out of votes, remove an existing vote!"
+      reached_limit: "You don't have enough waves to vote."
       list_votes: "List your votes"
       votes_nav_help: "topics with the most votes"
       voted: "You voted on this topic"
